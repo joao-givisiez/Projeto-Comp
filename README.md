@@ -27,10 +27,10 @@ Este projeto foi criado para demonstrar uma pipeline de CI/CD funcional usando G
 
 Toda vez que alguém faz um **push no branch `main`**, a pipeline faz automaticamente:
 
-1. 🧪 **Instala as dependências**
-2. 🔬 **Roda os testes**
-3. 🐳 **Gera a imagem Docker**
-4. 🚀 **Faz push da imagem pro Docker Hub**
+1.  **Instala as dependências**
+2.  **Roda os testes**
+3.  **Gera a imagem Docker**
+4.  **Faz push da imagem pro Docker Hub**
 
 ---
 
